@@ -139,4 +139,4 @@ prediction = int(prob > threshold)  # 1 => Fraud, 0 => Normal
 ---
 
 ## License
-This project is provided as an example template — adapt and extend for your use. Add a LICENSE file to set explicit license terms. 📜
+This project is provided as an example template — adapt and extend for your use.
