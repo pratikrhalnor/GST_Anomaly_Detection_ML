@@ -1,4 +1,5 @@
 # GST Anomaly (Fraud) Detection — README
+<div align ="left">
 
 A compact end-to-end example to detect fraudulent GST transactions using a Random Forest classifier. This repository contains a Colab-exported Python script (`trainingCode/gst_anomoly_detection.py`) that demonstrates data preprocessing, exploratory data analysis (EDA), model training, evaluation, feature-importance analysis, and a small interactive UI (for Colab) for prediction. 🚀
 
